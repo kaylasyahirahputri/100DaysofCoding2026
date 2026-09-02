@@ -1,3 +1,6 @@
+/**
+ * Tipe 3: Komentar Dokumentasi
+ */
 public class day01 {
   public static void main (String[] args) {
     // Komentar tipe 1: cukup satu baris saja
