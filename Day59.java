@@ -7,10 +7,11 @@ public class day59 {
         int m = in.nextInt();
 
         for (int i = m; i <= n; i = i + m) {
-            System.out.print(i + " ");
+            if (i % m == 0) {
+                System.out.print(i + " ");
+            }
+            
         }
-
-        System.out.println();
 
 
     }
