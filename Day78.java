@@ -18,9 +18,9 @@ public class day78 {
 
         do {
             System.out.print("Masukkan username: ");
-            usernameLogin = input.nextLine();
+            usernameLogin = in.nextLine();
             System.out.print("Masukkan password: ");
-            passwordLogin = input.nextLine();
+            passwordLogin = in.nextLine();
 
             if (username.equals(usernameLogin) &&
                 password.equals(passwordLogin)) {
