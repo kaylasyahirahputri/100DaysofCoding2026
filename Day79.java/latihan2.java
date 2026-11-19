@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class LatihanArray2 {
+public class Latihan2 {
     public static void main(String[] args) {
 
         int[] angka = {10, 20, 15, 25, 30};
