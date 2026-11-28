@@ -2,8 +2,8 @@
 public class Latihan1 {
 
     static void tampilBiodata() {
-        System.out.println("Nama    : Andi");
-        System.out.println("Umur    : 20");
+        System.out.println("Nama    : Kayla");
+        System.out.println("Umur    : 18");
         System.out.println("Jurusan : Informatika");
     }
 
